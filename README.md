@@ -1,5 +1,5 @@
-# DKSR City Intelligence
+# `.github` repo
 
-Hey there 👋, we are the DKSR (Daten Kompetenzzentrum für Stadte und Regionen) City Intelligence team.
+This is a special repository to provide a public organization profile, modify `profile/README.md` to modify the text you see in https://github.com/DKSR-CI
 
-We strive to leverage the potential of data 📈 to bring actionable insights 🧐 to the relevant stakeholders.
+This functionality is provided by GitHub and no configuration is needed.
