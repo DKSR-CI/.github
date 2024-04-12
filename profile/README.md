@@ -4,6 +4,11 @@ Hey there 👋, we are the DKSR (Daten Kompetenzzentrum für Stadte und Regionen
 
 We strive to leverage the potential of data 📈 to bring actionable insights 🧐 to the relevant stakeholders.
 
+When navigating our repositories, be aware that we use the following naming convention:
+- `exp_*` are exploratory and experimental. 1st stage
+- `demo_*` are demonstrator applications where we showcase a specific functionality. 2nd stage
+- `ci_*` are CI production ready applications. 3rd stage
+
 <!--
 
 **Here are some ideas to get you started:**
