@@ -10,7 +10,7 @@ When navigating our repositories, be aware that we use the following naming conv
 - `ci_*` are CI production ready applications. 3rd stage
 
 Project specific relations we highlight using the corresponding confluence/ jira project key: 
-- `*_{project_key}*`
+- `*_{project_key}`
 
 <!--
 
